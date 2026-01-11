@@ -1,6 +1,2 @@
 Figma Link:
-https://www.figma.com/design/zSvNmHM6fhl3NtSf2SXUyp/Register-page?node-id=0-1&t=nB1EzNY9kSDlDKzc-1
-
-Description:
-A clean and user-friendly registration page that enables users to create an account by entering essential 
-details, ensuring a smooth and intuitive onboarding experience.
+https://www.figma.com/design/zSvNmHM6fhl3NtSf2SXUyp/Register-page?node-id=0-1&t=rhU9BwdwuZ650bSQ-1
